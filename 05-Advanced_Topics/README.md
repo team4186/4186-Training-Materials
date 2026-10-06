@@ -1,1 +1,3 @@
-# PIDs, FeedForward + PID, Auto + Pathplanner, and Logging
+# PIDs, FeedForward + PID, Auto, Pathplanner, and Logging
+
+## Main Takeaways:
