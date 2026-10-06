@@ -9,12 +9,13 @@ Convientently both the FRC VS Code IDE and IntelliJ IDEA both come with git esse
 To clone a repository go to [github.com/team4186](https://github.com/team4186) and to the repository you would like to clone. Below you can find a link to the team's home page.
 
 ### IntelliJ
-1. Menu in the top left
-   1. File
-   1. New Project from Version Control
+1. File > New Project from Version Control
+   1. Paste URL and continue
 
 ### WPILib VS Code
-
+1. git clone repo
+1. File > Open Folder 
+   1. Open Root directory containing build.gradle
 
 
 ## Git Branches

@@ -8,6 +8,7 @@
 - [ ] Push your changes to the remote at the end of the day so you can access it from any machine
 - [ ] Create a PR to merge back to main branch
 
+
 ## Contributions
 
 The repositories are public, and you should be able to clone them without extra permissions.
@@ -18,6 +19,7 @@ If you want to push code directly, you need to ask for writing permissions.
     - [ ] Join the Aztechs programming team
         - [ ] Create a GitHub account
         - [ ] Go to the `#programming` channel in the Aztechs Slack and ask permissions to the Github repositories
+
 
 ## New robot checklist
 
@@ -30,6 +32,7 @@ If you want to push code directly, you need to ask for writing permissions.
 - [ ] Check for other hardware that needs update
 - [ ] Update Swerve Template libraries to latest
 - [ ] Update vendordeps
+
 
 ## Getting Started with Sim
 - [ ] Download WPILib [link](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html#downloading)
