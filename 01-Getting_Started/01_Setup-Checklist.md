@@ -1,5 +1,21 @@
 # Setting up environment
 
+-[ ] Download WPILib tools with or without VS Code development environment [link](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html#downloading)
+
+Contains the following:
+
+### Tools Only installs:
+- the WPILib tools (SmartDashboard, Shuffleboard, RobotBuilder, OutlineViewer, PathWeaver, Glass, SysId, Data Log Tool, roboRIO Team Number Setter, AdvantageScope, Elastic, WPIcal) 
+- and JDK.
+
+### Everything installs
+- the full development environment (VS Code, extensions, all dependencies, C++ compiler and JDK)
+- WPILib tools
+- and documentation
+
+### IntelliJ IDE
+Primarily we use IntelliJ but feel free to use the WPILib VS Code IDE if you prefer
+-[ ] IntelliJ IDEA [link](https://www.jetbrains.com/idea/download/?section=windows)
 
 ## Reminders
 
@@ -43,8 +59,9 @@ If you want to push code directly, you need to ask for writing permissions.
 
 ## Intro Project and Template
 
-### Step by Step Introduction to Java Project
-https://github.com/team4186/intro-java
+### Step by Step Introduction to Kotlin Syntax
+We use Java, but we also have a template to introduce students to programming using Kotlin.
+- Simple introduction exercises in Kotlin [link](https://github.com/team4186/intro-java)
 
 ### 4186 FRC Template
 https://github.com/team4186/empty-robot-java
