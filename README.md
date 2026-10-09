@@ -1,8 +1,14 @@
 # 4186 Reference and Training Material
 
 ## How to Approach this Repository : 
+- General Guidelines and Expectations
+  - Programming during building VS during Competition
+  - Programming, Electrical, Mechanical Collaboration in the Lab
+  - Troubleshooting Checklists
 - A light introduction into Java and Git
-  - Subsystems, Motor Controllers, and Commands implementation
+  - Motor Controllers configuration and operation
+  - Subsystems and Commands
+  - Version Control within a Team Setting
 - Finding links to relevant information such as:
   - Gear Ratio Translations to Useful Units 
   - Gyroscope, Joystick, and Field Coordinate Systems
@@ -24,3 +30,4 @@ Everything you need to program a working robot in FRC can be found here: [FRC Ze
 [WPI Java API Docs](https://github.wpilib.org/allwpilib/docs/release/java/index.html)
 
 [Code Academy Java course](https://www.codecademy.com/learn/learn-java)
+1
