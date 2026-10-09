@@ -1,5 +1,7 @@
 # 4186 Reference and Training Material
 
+Under Construction for the 2027 season. If you would like to make a contribution, Pull Requests are welcome and appreciated!
+
 ## How to Approach this Repository : 
 - General Guidelines and Expectations
   - Programming during building VS during Competition
