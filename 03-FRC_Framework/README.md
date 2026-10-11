@@ -7,3 +7,7 @@
 - Project Organization
 - Constants and Motor Controller Configuration
 - Auto, Testing, and Teleop
+
+## Additional Resources
+- https://docs.wpilib.org/en/stable/docs/software/basic-programming/joystick.html
+- https://docs.wpilib.org/en/stable/docs/software/basic-programming/coordinate-system.html

@@ -17,4 +17,4 @@
 
 
 ## Additional Resources
-FRC Sensors Page [link](https://docs.wpilib.org/en/stable/docs/hardware/sensors/index.html)
+- FRC Sensors [link](https://docs.wpilib.org/en/stable/docs/hardware/sensors/index.html)
