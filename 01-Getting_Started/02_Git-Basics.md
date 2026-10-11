@@ -3,8 +3,14 @@
 ### Summary:
 When working in a team environment, version control is essential to keep the codebase readable and in working order during the build season and especially during competition weekends.
 
+When contributing to the repository:
+- [ ] Fetch your current branch before start to work
+- [ ] Create a branch to work on your changes
+- [ ] Push your changes to the remote at the end of the day so you can access it from any machine
+- [ ] Create a PR to merge back to main branch
+
 ## Git Setup
-Convientently both the FRC VS Code IDE and IntelliJ IDEA both come with git essentials.
+Conveniently both the FRC VS Code IDE and IntelliJ IDEA both come with git essentials. 
 
 To clone a repository go to [github.com/team4186](https://github.com/team4186) and to the repository you would like to clone. Below you can find a link to the team's home page.
 
@@ -16,7 +22,6 @@ To clone a repository go to [github.com/team4186](https://github.com/team4186) a
 1. git clone repo
 1. File > Open Folder 
    1. Open Root directory containing build.gradle
-
 
 ## Git Branches
 
