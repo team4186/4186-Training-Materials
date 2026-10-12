@@ -3,7 +3,7 @@
 ### Summary:
 When working in a team environment, version control is essential to keep the codebase readable and in working order during the build season and especially during competition weekends.
 
-When contributing to the repository:
+### TLDR Contributing to the Repository:
 - [ ] Fetch your current branch before start to work
 - [ ] Create a branch to work on your changes
 - [ ] Push your changes to the remote at the end of the day so you can access it from any machine
