@@ -60,5 +60,5 @@ If you want to push code directly, you need to ask for writing permissions.
 We use Java, but we also have a template to introduce students to programming using Kotlin.
 - Simple introduction exercises in Kotlin [link](https://github.com/team4186/intro-java)
 
-### 4186 FRC Template
+### 4186 Empty Robot FRC Template
 https://github.com/team4186/empty-robot-java
