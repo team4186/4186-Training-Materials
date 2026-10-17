@@ -3,17 +3,17 @@
 ## Step 1: IDE and Tools
 - Download WPILib Installer [link](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html#downloading)
 
-## This Contains the following:
+### This Contains the following:
 
-### Option 1: Tools Only installs:
+#### Option 1: Tools Only installs:
 - the WPILib tools (SmartDashboard, Shuffleboard, RobotBuilder, OutlineViewer, PathWeaver, Glass, SysId, Data Log Tool, roboRIO Team Number Setter, AdvantageScope, Elastic, WPIcal) 
 - and JDK.
 
-### Option 2: Everything installs
+#### Option 2: Everything installs
 - Everything included in Option 1
 - The full development environment (VS Code, extensions, all dependencies, C++ compiler and JDK)
 
-### Additional Install: IntelliJ IDE
+#### Additional Install: IntelliJ IDE
 Primarily we use IntelliJ but feel free to use the WPILib VS Code IDE if you prefer.
 
 - IntelliJ IDEA [link](https://www.jetbrains.com/idea/download/?section=windows)
