@@ -4,10 +4,11 @@
 ### Main Takeaways
 - **Motor Controllers**: 
   - Configurations, Leader Follower, and Closed-Loop Control
-- **Encoders**: 
+- **Relative Encoders**: 
   - Measuring Velocity and improving Closed-Loop response times
-- **Encoders**: 
-  - Measuring Position and Relative vs Absolute Encoders
+  - Measuring Distances
+- **Absolute Encoders**: 
+  - Using Absolute encoders as a source of truth in tandem with Relative Encoders
 - **Gyroscope**: 
   - Tracking Position on the Field and how it enables Swerve
 - **Vision**: 
